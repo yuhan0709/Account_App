@@ -11,10 +11,10 @@
     - AmountBox.js (上方整合记录结果框)
     ![image](http://img0.ph.126.net/4h7jnQGSNfoZvX0vTVSQmw==/6608204520913094883.png)
     - Record.js (单独记录)
-    ![image](http://img2.ph.126.net/8ojPGnc7emT2-ikv78UCLQ==/6608256197959434308.png)
+    ![image](http://img1.ph.126.net/wT59QopTh3bU84IKgh1DPA==/6597833927240289808.png)
     - Records.js (全部组件整合)
     - RecordsForm.js (添加记录表单)
-    ![image](http://img2.ph.126.net/EHqzn6hyHEPutYlYs65Y5Q==/1704893934036865943.png)
+    ![image](http://img2.ph.126.net/29ugqlGrkWGaqaPtn-h1Vg==/2114158550174205101.png)
 
 ## 项目亮点
 ### 1.组件操作的传值
@@ -120,3 +120,6 @@ handleChange(event){
     ))  //这里就动态更新了state中的数据
 }
 ```
+## 说明
+- npm install
+- npm start
